@@ -4,8 +4,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        
+	       
         int N = 5;
         int K = 3;
         Bit(N,K);
