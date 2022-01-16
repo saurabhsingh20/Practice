@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        Scanner sc = new Scanner(System.in);
+        
         int N = 5;
         int K = 3;
         Bit(N,K);
